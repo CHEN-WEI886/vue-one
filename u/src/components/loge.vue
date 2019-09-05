@@ -4,6 +4,7 @@
 		<h5>登录</h5>
 		<input class="form-control">
 		<input class="form-control">
+		<input class="from-control">
 	<button class="form-control btn btn-primary">登录</button>
     </form>
 </div>
