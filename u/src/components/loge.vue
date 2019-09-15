@@ -5,7 +5,7 @@
 		<input class="form-control">
 		<input class="form-control">
 		<input class="from-control">
-	<button class="form-control btn btn-primary">登录11</button>
+	<button class="form-control btn btn-primary">登录12</button>
     </form>
 </div>
 </template>
